@@ -10,5 +10,5 @@ It can be utilized to make activities more active.
 
 Get early access before we launch on Product Hunt...
 
-## Contact
+## Contact us
 info@elando.tech
